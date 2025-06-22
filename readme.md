@@ -2,21 +2,17 @@
 
 **WebDirsCovery** is a tool designed to discover hidden directories on websites by performing automated and manual scans. It aims to assist security professionals and ethical hackers in finding potential attack vectors, web directories, and vulnerabilities.
 
+---
+
 ## Features 🔥🚀
 
 - **Automated Directory Scan**: Automatically scans a website for common directories.
 - **Custom Directory Scan**: Allows users to use her own file that have list of directories to scan.
 - **Manual Directory Scan**: Allows users to enter single/list of directories to scan.
 
-## Installation 📂 
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/R3ym0nd0/Python-Resources.git
-   cd Python-Resources/MyToolBox/WebDirsCovery/WebDirsCovery (1.0)
-   
-## Snapshot 📷
+---
+ 
+## Screenshots 📷
 
 ### Entering Target 🎯
 ![Introduction](https://github.com/user-attachments/assets/4bd09a30-cbb7-45ae-a61d-bd75e97c8596)
@@ -36,6 +32,26 @@
 ### Summary Result in Automated and Custom Directory Scan Feature 📊
 
 ![Summary_Result](https://github.com/user-attachments/assets/bf1e0ed4-9510-45b0-9566-d688cca18daf)
+
+---
+
+## 🔧 How to Run
+
+```bash
+⚠️ Make sure you are using Python 3.3+
+
+# Clone the repository
+git clone https://github.com/R3ym0nd0/WebDirsCovery.git
+cd WebDirsCovery
+
+# Install required modules
+pip install request colorama 
+
+# Run IPnetSolver
+python WebDirsCovery.py
+```
+
+---
 
 ## ⚠️ Important Notice ⚠️
 
